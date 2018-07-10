@@ -1,0 +1,1509 @@
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Jean Mabuse</BaseName>
+              <StreetType attached="false" before="true">Avenue</StreetType>
+            </StreetName>
+            <HouseNumber>3</HouseNumber>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>59600</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Hauts-de-France</Level2>
+                <Level3>Nord</Level3>
+                <Level4>Maubeuge</Level4>
+                <Level5>Maubeuge</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="ROUTING">
+          <Latitude>50.2772</Latitude>
+          <Longitude>3.97376</Longitude>
+        </GeoPosition>
+        <GeoPosition type="DISPLAY">
+          <Latitude>50.27726</Latitude>
+          <Longitude>3.97366</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference providerName="HERE">
+          <Map sequenceNumber="1501302" version="Q3/2018">
+            <Link linkPvid="841422250">
+              <Side>left</Side>
+            </Link>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData languageCode="en" key="LocationType">Entry Point</AdditionalData>
+      <AdditionalData languageCode="en" key="MatchLevel">GeoPoint</AdditionalData>
+      <AdditionalData key="MapPostalCode">59600</AdditionalData>
+      <AdditionalData key="RegionId">F2</AdditionalData>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T22:52:31.750Z">
+    <PlaceId>250u0fy4-d7210349f2a5403bb6d8cff5daed1f09</PlaceId>
+    <QualityLevel>4</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name categoryReference="700-7010-0108" primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">CIC</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+        <Name categoryReference="700-7000-0107">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">CIC</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>6000</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+        </Category>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7010-0108</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A computer terminal that allows bank customers to deposit, withdraw, or transfer funds without the assistance of a bank teller.</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>3578</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact categoryReference="700-7000-0107" preferred="true" type="PHONE">
+          <ContactString>8-20052704</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33820052704</StandardNumber>
+            <AreaCode>8</AreaCode>
+            <LocalNumber>20052704</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+      </ContactList>
+      <ChainList>
+        <Chain>
+          <Id>1252</Id>
+          <Name>
+            <Text default="true" type="OFFICIAL" languageCode="en">CIC</Text>
+          </Name>
+        </Chain>
+      </ChainList>
+      <ExternalReferenceList>
+        <ExternalReference system="corepoixml" categoryReference="700-7000-0107">
+          <ExternalReferenceID type="SUPPLIER_POIID">1017156037</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+        <ExternalReference system="corepoixml" categoryReference="700-7010-0108">
+          <ExternalReferenceID type="SUPPLIER_POIID">1017156036</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+      </ExternalReferenceList>
+    </Base>
+    <Rich>
+      <VerificationList>
+        <Verification endDate="2015-01-01T00:00:00.000Z">
+          <Method>UNCLASSIFIED</Method>
+          <Status>COMPLETED</Status>
+        </Verification>
+      </VerificationList>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7010-0108">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7000-0107">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.8676</Attribute>
+          <Attribute key="isAddressCorrect">0.9075</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">4</Attribute>
+          <Attribute key="isPlace">0.9519</Attribute>
+          <Attribute key="isNameCorrect">0.9293</Attribute>
+          <Attribute key="isPhoneCorrect">0.767</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" locationId="NT_2KeuxYhbBj7xHpJ7taUB5C_xA" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Oscar et Jean Auriac</BaseName>
+              <StreetType attached="false" before="true">Rue</StreetType>
+            </StreetName>
+            <FullStreetName>Rue Oscar et Jean Auriac</FullStreetName>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>33800</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Nouvelle-Aquitaine</Level2>
+                <Level3>Gironde</Level3>
+                <Level4>Bordeaux</Level4>
+                <Level5>Bordeaux</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="DISPLAY">
+          <Latitude>44.81544</Latitude>
+          <Longitude>-0.55584</Longitude>
+        </GeoPosition>
+        <GeoPosition type="ROUTING">
+          <Latitude>44.81557</Latitude>
+          <Longitude>-0.55561</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference>
+          <Map version="Q3/2018">
+            <Link linkPvid="590856593">
+              <Side>left</Side>
+              <Spot>44</Spot>
+            </Link>
+            <PointAddressPvid>318444881</PointAddressPvid>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+      <AdditionalData key="Relevance">1.0</AdditionalData>
+      <AdditionalData key="MatchLevel">houseNumber</AdditionalData>
+      <AdditionalData key="MatchType">pointAddress</AdditionalData>
+      <AdditionalData key="MatchCode">exact</AdditionalData>
+      <AdditionalData key="Distance">17.6</AdditionalData>
+      <AdditionalData key="MatchQuality-Country">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-State">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-County">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-District">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-City">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-Street">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-HouseNumber">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-PostalCode">1.0</AdditionalData>
+      <AdditionalData key="MapPostalCode">33800</AdditionalData>
+      <AdditionalData key="RegionId">F5</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T23:05:52.834Z">
+    <PlaceId>250ezzwg-52e89dd8a69d41c9a8c3ce18116d4966</PlaceId>
+    <QualityLevel>2</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">Piscine de Pessac</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>800-8600-0182</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Swimming Pool</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A facility that provides an indoor or outdoor pool used for swimming.</Text>
+          </Description>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact type="PHONE">
+          <ContactString>0553571023</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33553571023</StandardNumber>
+            <AreaCode>5</AreaCode>
+            <LocalNumber>53571023</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+        <Contact type="WEBADDRESS">
+          <ContactString>http://www.bergerac.fr/</ContactString>
+        </Contact>
+        <Contact type="OTHER">
+          <ContactString>http://www.facebook.com/382826285103938</ContactString>
+          <Label>
+            <Text languageCode="en">yellowstone</Text>
+          </Label>
+        </Contact>
+      </ContactList>
+    </Base>
+    <Rich>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.8952</Attribute>
+          <Attribute key="isAddressCorrect">0.5379</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">2</Attribute>
+          <Attribute key="isPlace">0.7694</Attribute>
+          <Attribute key="isNameCorrect">0.8061</Attribute>
+          <Attribute key="isPhoneCorrect">0.8389</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Victor Eusen</BaseName>
+              <StreetType attached="false" before="true">Rue</StreetType>
+            </StreetName>
+            <HouseNumber>2</HouseNumber>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>29200</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Bretagne</Level2>
+                <Level3>Finistère</Level3>
+                <Level4>Brest</Level4>
+                <Level5>Brest</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="ROUTING">
+          <Latitude>48.37968</Latitude>
+          <Longitude>-4.53732</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference providerName="HERE">
+          <Map sequenceNumber="1501302" version="Q3/2018">
+            <Link linkPvid="940858868">
+              <Side>right</Side>
+              <Spot>56</Spot>
+            </Link>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData languageCode="en" key="LocationType">Entry Point</AdditionalData>
+      <AdditionalData languageCode="en" key="MatchLevel">GeoPoint</AdditionalData>
+      <AdditionalData key="MapPostalCode">29200</AdditionalData>
+      <AdditionalData key="RegionId">F4</AdditionalData>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T20:43:05.400Z">
+    <PlaceId>250gbsg0-cf8904ab872d45d6ae1d5a56ac998c6c</PlaceId>
+    <QualityLevel>4</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name categoryReference="700-7000-0107" primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">CAISSE D'ÉPARGNE</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+        <Name categoryReference="700-7010-0108">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">CAISSE D'ÉPARGNE</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7010-0108</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A computer terminal that allows bank customers to deposit, withdraw, or transfer funds without the assistance of a bank teller.</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>3578</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+        </Category>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>6000</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact categoryReference="700-7000-0107" preferred="true" type="PHONE">
+          <ContactString>2-57290488</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33257290488</StandardNumber>
+            <AreaCode>2</AreaCode>
+            <LocalNumber>57290488</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+        <Contact type="FAX">
+          <ContactString>0298057119</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33298057119</StandardNumber>
+            <AreaCode>2</AreaCode>
+            <LocalNumber>98057119</LocalNumber>
+            <CountryCode>33</CountryCode>
+          </AdditionalContactInfo>
+        </Contact>
+        <Contact type="WEBADDRESS">
+          <ContactString>https://www.caisse-epargne.fr/bretagne-pays-de-loire/</ContactString>
+        </Contact>
+      </ContactList>
+      <ChainList>
+        <Chain>
+          <Id>1250</Id>
+          <Name>
+            <Text default="true" type="OFFICIAL" languageCode="en">CAISSE D'ÉPARGNE</Text>
+          </Name>
+        </Chain>
+      </ChainList>
+      <ExternalReferenceList>
+        <ExternalReference system="corepoixml" categoryReference="700-7010-0108">
+          <ExternalReferenceID type="SUPPLIER_POIID">801785385</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+        <ExternalReference system="corepoixml" categoryReference="700-7000-0107">
+          <ExternalReferenceID type="SUPPLIER_POIID">801788771</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+      </ExternalReferenceList>
+    </Base>
+    <Extended>
+      <BrandList>
+        <Brand>
+          <LogoList>
+            <Logo>
+              <URI>null</URI>
+            </Logo>
+          </LogoList>
+        </Brand>
+      </BrandList>
+      <HoursOfOperationList>
+        <HoursOfOperation>
+          <Open24x7Flag>false</Open24x7Flag>
+          <OperatingTimeList>
+            <OperatingTime dayOfweek="TUESDAY">
+              <OpeningTime>09:30:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="WEDNESDAY">
+              <OpeningTime>09:30:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="THURSDAY">
+              <OpeningTime>09:30:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="FRIDAY">
+              <OpeningTime>09:30:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="SATURDAY">
+              <OpeningTime>09:00:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+          </OperatingTimeList>
+        </HoursOfOperation>
+      </HoursOfOperationList>
+    </Extended>
+    <Rich>
+      <VerificationList>
+        <Verification endDate="2016-06-08T00:00:00.000Z">
+          <Method>UNCLASSIFIED</Method>
+          <Status>COMPLETED</Status>
+        </Verification>
+      </VerificationList>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7000-0107">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7010-0108">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.9227</Attribute>
+          <Attribute key="isAddressCorrect">0.913</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">4</Attribute>
+          <Attribute key="isPlace">0.974</Attribute>
+          <Attribute key="isNameCorrect">0.9171</Attribute>
+          <Attribute key="isPhoneCorrect">0.8469</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location label="4 Avenue de Chambord, 91470 Limours, France" supplier="BLENDED" type="MAIN" locationId="NT_LUTYHeB0PiXX1U0cwXSYTD_0A" primary="true">
+      <Address>
+        <UnparsedList>
+          <Unparsed defaultLanguage="true" languageCode="fr">4 Avenue de Chambord, 91470 Limours, France</Unparsed>
+        </UnparsedList>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Chambord</BaseName>
+              <StreetType attached="false" before="true">Avenue de</StreetType>
+            </StreetName>
+            <FullStreetName>Avenue de Chambord</FullStreetName>
+            <HouseNumber>4</HouseNumber>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>91470</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Île-de-France</Level2>
+                <Level3>Essonne</Level3>
+                <Level4>Limours</Level4>
+                <Level5>Limours</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="DISPLAY">
+          <Latitude>48.64575</Latitude>
+          <Longitude>2.07355</Longitude>
+        </GeoPosition>
+        <GeoPosition type="ROUTING">
+          <Latitude>48.64575</Latitude>
+          <Longitude>2.07354</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference>
+          <Map version="Q3/2018">
+            <Link linkPvid="1067664098">
+              <Side>neither</Side>
+              <Spot>44</Spot>
+            </Link>
+            <PointAddressPvid>321835884</PointAddressPvid>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+      <AdditionalData key="Relevance">1.0</AdditionalData>
+      <AdditionalData key="MatchLevel">houseNumber</AdditionalData>
+      <AdditionalData key="MatchType">pointAddress</AdditionalData>
+      <AdditionalData key="MatchCode">exact</AdditionalData>
+      <AdditionalData key="Distance">36.1</AdditionalData>
+      <AdditionalData key="MatchQuality-Street">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-HouseNumber">1.0</AdditionalData>
+      <AdditionalData key="MapPostalCode">91470</AdditionalData>
+      <AdditionalData key="RegionId">F1</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-06-04T02:40:53.715Z">
+    <PlaceId>250u09kx-e1c26d6462274417881411f132ea809b</PlaceId>
+    <QualityLevel>3</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">Agence Groupama Limours</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7200-0271</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Finance and Insurance</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that provides trust, fiduciary, and custody services to others, public finance and establishments acting as agents (e.g., brokers) in selling annuities and insurance policies.</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact type="PHONE">
+          <ContactString>1-64917701</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33164917701</StandardNumber>
+            <AreaCode>1</AreaCode>
+            <LocalNumber>64917701</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+        <Contact type="WEBADDRESS">
+          <ContactString>https://www.groupama.fr</ContactString>
+        </Contact>
+      </ContactList>
+      <ExternalReferenceList>
+        <ExternalReference system="corepoixml" categoryReference="700-7000-0107">
+          <ExternalReferenceID type="SUPPLIER_POIID">1203016391</ExternalReferenceID>
+        </ExternalReference>
+      </ExternalReferenceList>
+    </Base>
+    <Extended>
+      <BrandList>
+        <Brand>
+          <LogoList>
+            <Logo>
+              <URI>https://www.groupama.fr/documents/20295/169075/Logo-Groupama-2953x1181.png</URI>
+            </Logo>
+          </LogoList>
+        </Brand>
+      </BrandList>
+      <HoursOfOperationList>
+        <HoursOfOperation>
+          <Open24x7Flag>false</Open24x7Flag>
+          <OperatingTimeList>
+            <OperatingTime dayOfweek="TUESDAY">
+              <OpeningTime>09:00:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="WEDNESDAY">
+              <OpeningTime>09:00:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="THURSDAY">
+              <OpeningTime>09:00:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="FRIDAY">
+              <OpeningTime>09:00:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="SATURDAY">
+              <OpeningTime>09:15:00</OpeningTime>
+              <ClosingTime>12:45:00</ClosingTime>
+            </OperatingTime>
+          </OperatingTimeList>
+        </HoursOfOperation>
+      </HoursOfOperationList>
+    </Extended>
+    <Rich>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.8969</Attribute>
+          <Attribute key="isAddressCorrect">0.8785</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">3</Attribute>
+          <Attribute key="isPlace">0.9109</Attribute>
+          <Attribute key="isNameCorrect">0.8436</Attribute>
+          <Attribute key="isPhoneCorrect">0.8458</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Aristide Rouzière</BaseName>
+              <StreetType attached="false" before="true">Rue</StreetType>
+            </StreetName>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>34120</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Occitanie</Level2>
+                <Level3>Hérault</Level3>
+                <Level4>Pézenas</Level4>
+                <Level5>Pézenas</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="ROUTING">
+          <Latitude>43.46061</Latitude>
+          <Longitude>3.42448</Longitude>
+        </GeoPosition>
+        <GeoPosition type="DISPLAY">
+          <Latitude>43.46065</Latitude>
+          <Longitude>3.42448</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference providerName="HERE">
+          <Map sequenceNumber="1501302" version="Q3/2018">
+            <Link linkPvid="548586893">
+              <Side>right</Side>
+              <Spot>50</Spot>
+            </Link>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData languageCode="en" key="LocationType">Entry Point</AdditionalData>
+      <AdditionalData languageCode="en" key="MatchLevel">GeoPoint</AdditionalData>
+      <AdditionalData key="MapPostalCode">34120</AdditionalData>
+      <AdditionalData key="RegionId">F5</AdditionalData>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T21:00:54.419Z">
+    <PlaceId>250jx7ps-30814b4f1aeb0c69dd5cec8a4df80385</PlaceId>
+    <QualityLevel>3</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name categoryReference="700-7000-0107" primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">La Banque Postale</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+        <Name categoryReference="700-7010-0108">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">La Banque Postale</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7010-0108</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A computer terminal that allows bank customers to deposit, withdraw, or transfer funds without the assistance of a bank teller.</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>3578</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+        </Category>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>6000</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact categoryReference="700-7000-0107" preferred="true" type="PHONE">
+          <ContactString>1-45453639</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33145453639</StandardNumber>
+            <AreaCode>1</AreaCode>
+            <LocalNumber>45453639</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+      </ContactList>
+      <ChainList>
+        <Chain>
+          <Id>1257</Id>
+          <Name>
+            <Text default="true" type="OFFICIAL" languageCode="en">La Banque Postale</Text>
+          </Name>
+        </Chain>
+      </ChainList>
+      <ExternalReferenceList>
+        <ExternalReference system="corepoixml" categoryReference="700-7010-0108">
+          <ExternalReferenceID type="SUPPLIER_POIID">1141452108</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+        <ExternalReference system="corepoixml" categoryReference="700-7000-0107">
+          <ExternalReferenceID type="SUPPLIER_POIID">1144707530</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+      </ExternalReferenceList>
+    </Base>
+    <Rich>
+      <VerificationList>
+        <Verification endDate="2015-02-24T00:00:00.000Z">
+          <Method>UNCLASSIFIED</Method>
+          <Status>COMPLETED</Status>
+        </Verification>
+        <Verification endDate="2016-09-11T07:02:18.250Z">
+          <Method>MODERATOR</Method>
+          <Status>COMPLETED</Status>
+          <Type>PARTNER</Type>
+          <System>COMMUNITY</System>
+          <Verified>DATA</Verified>
+        </Verification>
+      </VerificationList>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7000-0107">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7010-0108">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.8962</Attribute>
+          <Attribute key="isAddressCorrect">0.7062</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">3</Attribute>
+          <Attribute key="isPlace">0.9502</Attribute>
+          <Attribute key="isNameCorrect">0.9164</Attribute>
+          <Attribute key="isPhoneCorrect">0.8451</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Verdun</BaseName>
+              <StreetType attached="false" before="true">Avenue de</StreetType>
+            </StreetName>
+            <HouseNumber>30</HouseNumber>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>36120</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Centre-Val de Loire</Level2>
+                <Level3>Indre</Level3>
+                <Level4>Ardentes</Level4>
+                <Level5>Ardentes</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="ROUTING">
+          <Latitude>46.74257</Latitude>
+          <Longitude>1.83347</Longitude>
+        </GeoPosition>
+        <GeoPosition type="DISPLAY">
+          <Latitude>46.74254</Latitude>
+          <Longitude>1.83339</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference providerName="HERE">
+          <Map sequenceNumber="1501302" version="Q3/2018">
+            <Link linkPvid="1186639920">
+              <Side>left</Side>
+            </Link>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData languageCode="en" key="LocationType">Entry Point</AdditionalData>
+      <AdditionalData languageCode="en" key="MatchLevel">GeoPoint</AdditionalData>
+      <AdditionalData key="MapPostalCode">36120</AdditionalData>
+      <AdditionalData key="RegionId">F6</AdditionalData>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T21:04:40.445Z">
+    <PlaceId>250u033c-b3f8297e04364b59bc11683e710c7e53</PlaceId>
+    <QualityLevel>4</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name categoryReference="700-7000-0107" primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">Crédit Agricole</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+        <Name categoryReference="700-7010-0108">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">Crédit Agricole</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7010-0108</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A computer terminal that allows bank customers to deposit, withdraw, or transfer funds without the assistance of a bank teller.</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>3578</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+        </Category>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>6000</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact categoryReference="700-7000-0107" preferred="true" type="PHONE">
+          <ContactString>9-78978909</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33978978909</StandardNumber>
+            <AreaCode>9</AreaCode>
+            <LocalNumber>78978909</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+      </ContactList>
+      <ChainList>
+        <Chain>
+          <Id>1253</Id>
+          <Name>
+            <Text default="true" type="OFFICIAL" languageCode="en">Crédit Agricole</Text>
+          </Name>
+        </Chain>
+      </ChainList>
+      <ExternalReferenceList>
+        <ExternalReference system="corepoixml" categoryReference="700-7010-0108">
+          <ExternalReferenceID type="SUPPLIER_POIID">1142124066</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+        <ExternalReference system="corepoixml" categoryReference="700-7000-0107">
+          <ExternalReferenceID type="SUPPLIER_POIID">801750853</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+      </ExternalReferenceList>
+    </Base>
+    <Rich>
+      <VerificationList>
+        <Verification endDate="2015-01-01T00:00:00.000Z">
+          <Method>UNCLASSIFIED</Method>
+          <Status>COMPLETED</Status>
+        </Verification>
+      </VerificationList>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7000-0107">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7010-0108">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.866</Attribute>
+          <Attribute key="isAddressCorrect">0.9075</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">4</Attribute>
+          <Attribute key="isPlace">0.9552</Attribute>
+          <Attribute key="isNameCorrect">0.9293</Attribute>
+          <Attribute key="isPhoneCorrect">0.767</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" locationId="NT_1rlxspDiLE3kophc6Zq8vD_1A" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Libération</BaseName>
+              <StreetType attached="false" before="true">Place de la</StreetType>
+            </StreetName>
+            <FullStreetName>Place de la Libération</FullStreetName>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>29390</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Bretagne</Level2>
+                <Level3>Finistère</Level3>
+                <Level4>Scaër</Level4>
+                <Level5>Scaër</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="DISPLAY">
+          <Latitude>48.02702</Latitude>
+          <Longitude>-3.70208</Longitude>
+        </GeoPosition>
+        <GeoPosition type="ROUTING">
+          <Latitude>48.02698</Latitude>
+          <Longitude>-3.70206</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference>
+          <Map version="Q3/2018">
+            <Link linkPvid="552763445">
+              <Side>left</Side>
+              <Spot>34</Spot>
+            </Link>
+            <PointAddressPvid>570447471</PointAddressPvid>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+      <AdditionalData key="Relevance">1.0</AdditionalData>
+      <AdditionalData key="MatchLevel">houseNumber</AdditionalData>
+      <AdditionalData key="MatchType">pointAddress</AdditionalData>
+      <AdditionalData key="MatchCode">exact</AdditionalData>
+      <AdditionalData key="Distance">8.5</AdditionalData>
+      <AdditionalData key="MatchQuality-Country">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-State">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-County">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-City">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-Street">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-HouseNumber">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-PostalCode">1.0</AdditionalData>
+      <AdditionalData key="MapPostalCode">29390</AdditionalData>
+      <AdditionalData key="RegionId">F4</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T21:09:50.053Z">
+    <PlaceId>250gbt35-a5389871b8bc4234a7deae603b7eed15</PlaceId>
+    <QualityLevel>2</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">Crédit Mutuel de Bretagne</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact type="PHONE">
+          <ContactString>0298594140</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33298594140</StandardNumber>
+            <AreaCode>2</AreaCode>
+            <LocalNumber>98594140</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+        <Contact type="WEBADDRESS">
+          <ContactString>https://www.cmb.fr/banque/assurance/credit-mutuel/web/j_6/accueil</ContactString>
+        </Contact>
+      </ContactList>
+    </Base>
+    <Extended>
+      <HoursOfOperationList>
+        <HoursOfOperation>
+          <Open24x7Flag>false</Open24x7Flag>
+          <OperatingTimeList>
+            <OperatingTime dayOfweek="TUESDAY">
+              <OpeningTime>08:45:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="TUESDAY">
+              <OpeningTime>13:45:00</OpeningTime>
+              <ClosingTime>18:00:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="WEDNESDAY">
+              <OpeningTime>08:45:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="WEDNESDAY">
+              <OpeningTime>13:45:00</OpeningTime>
+              <ClosingTime>18:00:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="THURSDAY">
+              <OpeningTime>08:45:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="THURSDAY">
+              <OpeningTime>15:30:00</OpeningTime>
+              <ClosingTime>18:00:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="FRIDAY">
+              <OpeningTime>08:45:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="FRIDAY">
+              <OpeningTime>13:45:00</OpeningTime>
+              <ClosingTime>18:00:00</ClosingTime>
+            </OperatingTime>
+            <OperatingTime dayOfweek="SATURDAY">
+              <OpeningTime>08:30:00</OpeningTime>
+              <ClosingTime>12:15:00</ClosingTime>
+            </OperatingTime>
+          </OperatingTimeList>
+        </HoursOfOperation>
+      </HoursOfOperationList>
+      <NoteList>
+        <Note type="DESCRIPTION">
+          <Text languageCode="fr">La banque qui va avec la vie. Nous sommes la banque de toutes les proximités. Nous vous proposons divers types de prêts, de crédits et d'assurances. Nos services sont disponibles 24h/24, 7j/7.</Text>
+        </Note>
+      </NoteList>
+    </Extended>
+    <Rich>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.8646</Attribute>
+          <Attribute key="isAddressCorrect">0.5324</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">2</Attribute>
+          <Attribute key="isPlace">0.7972</Attribute>
+          <Attribute key="isNameCorrect">0.8321</Attribute>
+          <Attribute key="isPhoneCorrect">0.8199</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+      <MediaReferenceList>
+        <MediaReference type="PHOTO">
+          <Url>http://photos.sefaireconnaitre.com/291243/110382807/photos/1.jpg</Url>
+        </MediaReference>
+      </MediaReferenceList>
+    </Rich>
+  </Content>
+</Place>
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Georges Clemenceau</BaseName>
+              <StreetType attached="false" before="true">Avenue</StreetType>
+            </StreetName>
+            <HouseNumber>11</HouseNumber>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>43000</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Auvergne-Rhône-Alpes</Level2>
+                <Level3>Haute-Loire</Level3>
+                <Level4>Le Puy-en-Velay</Level4>
+                <Level5>Le Puy-en-Velay</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="ROUTING">
+          <Latitude>45.0419</Latitude>
+          <Longitude>3.88723</Longitude>
+        </GeoPosition>
+        <GeoPosition type="DISPLAY">
+          <Latitude>45.04192</Latitude>
+          <Longitude>3.88728</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference providerName="HERE">
+          <Map sequenceNumber="1501302" version="Q3/2018">
+            <Link linkPvid="561253200">
+              <Side>right</Side>
+            </Link>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData languageCode="en" key="LocationType">Entry Point</AdditionalData>
+      <AdditionalData languageCode="en" key="MatchLevel">GeoPoint</AdditionalData>
+      <AdditionalData key="MapPostalCode">43000</AdditionalData>
+      <AdditionalData key="RegionId">F6</AdditionalData>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-01-24T22:56:11.643Z">
+    <PlaceId>250u04b0-bd7733cc7fb54d87a7ed8fa2b3d4da3e</PlaceId>
+    <QualityLevel>4</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name categoryReference="700-7000-0107" primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">BNP Paribas</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+        <Name categoryReference="700-7010-0108">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">BNP Paribas</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7010-0108</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A computer terminal that allows bank customers to deposit, withdraw, or transfer funds without the assistance of a bank teller.</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>3578</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">ATM</Text>
+          </CategoryName>
+        </Category>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>700-7000-0107</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A business that specializes in the maintenance, lending, exchange, or issue money for its customers (e.g. central banks, consumer banks, credit union).</Text>
+          </Description>
+        </Category>
+        <Category categorySystem="navteq-poi">
+          <CategoryId>6000</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Bank</Text>
+          </CategoryName>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact categoryReference="700-7000-0107" preferred="true" type="PHONE">
+          <ContactString>8-20820001</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33820820001</StandardNumber>
+            <AreaCode>8</AreaCode>
+            <LocalNumber>20820001</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+      </ContactList>
+      <ChainList>
+        <Chain>
+          <Id>1249</Id>
+          <Name>
+            <Text default="true" type="OFFICIAL" languageCode="en">BNP Paribas</Text>
+          </Name>
+        </Chain>
+      </ChainList>
+      <ExternalReferenceList>
+        <ExternalReference system="corepoixml" categoryReference="700-7010-0108">
+          <ExternalReferenceID type="SUPPLIER_POIID">801789991</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+        <ExternalReference system="corepoixml" categoryReference="700-7000-0107">
+          <ExternalReferenceID type="SUPPLIER_POIID">844336990</ExternalReferenceID>
+          <InternalDataList>
+            <InternalData attributeType="SUPPLIER_REFERENCE">
+              <Attribute key="SUPPLIER">COREPOIXML</Attribute>
+            </InternalData>
+          </InternalDataList>
+        </ExternalReference>
+      </ExternalReferenceList>
+    </Base>
+    <Rich>
+      <VerificationList>
+        <Verification endDate="2015-01-01T00:00:00.000Z">
+          <Method>UNCLASSIFIED</Method>
+          <Status>COMPLETED</Status>
+        </Verification>
+      </VerificationList>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7000-0107">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="OTHER" categoryReference="700-7010-0108">
+          <Attribute key="LongHaul">false</Attribute>
+        </AdditionalAttribute>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.8768</Attribute>
+          <Attribute key="isAddressCorrect">0.9104</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">4</Attribute>
+          <Attribute key="isPlace">0.951</Attribute>
+          <Attribute key="isNameCorrect">0.9286</Attribute>
+          <Attribute key="isPhoneCorrect">0.7825</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>
+
+
+
+
+<Place xmlns="http://places.maps.here.com/pds">
+  <LocationList>
+    <Location supplier="BLENDED" type="MAIN" locationId="NT_0.gUMtoRWD3Hu8ZzxYRZSD_yA" primary="true">
+      <Address>
+        <ParsedList>
+          <Parsed defaultLanguage="true" languageCode="fr">
+            <StreetName>
+              <BaseName>Carnot</BaseName>
+              <StreetType attached="false" before="true">Rue</StreetType>
+            </StreetName>
+            <FullStreetName>Rue Carnot</FullStreetName>
+            <CountryCode>FRA</CountryCode>
+            <PostalCode>33130</PostalCode>
+            <Admin>
+              <AdminLevel>
+                <Level2>Nouvelle-Aquitaine</Level2>
+                <Level3>Gironde</Level3>
+                <Level4>Bègles</Level4>
+                <Level5>Bègles</Level5>
+              </AdminLevel>
+            </Admin>
+          </Parsed>
+        </ParsedList>
+      </Address>
+      <GeoPositionList>
+        <GeoPosition type="DISPLAY">
+          <Latitude>44.80736</Latitude>
+          <Longitude>-0.55428</Longitude>
+        </GeoPosition>
+        <GeoPosition type="ROUTING">
+          <Latitude>44.8074</Latitude>
+          <Longitude>-0.55428</Longitude>
+        </GeoPosition>
+      </GeoPositionList>
+      <MapReferenceList>
+        <MapReference>
+          <Map version="Q3/2018">
+            <Link linkPvid="57910339">
+              <Side>right</Side>
+              <Spot>33</Spot>
+            </Link>
+            <PointAddressPvid>417148120</PointAddressPvid>
+          </Map>
+        </MapReference>
+      </MapReferenceList>
+      <AdditionalData key="MapId">WEU 181F0</AdditionalData>
+      <AdditionalData key="Relevance">1.0</AdditionalData>
+      <AdditionalData key="MatchLevel">houseNumber</AdditionalData>
+      <AdditionalData key="MatchType">pointAddress</AdditionalData>
+      <AdditionalData key="MatchCode">exact</AdditionalData>
+      <AdditionalData key="Distance">0.0</AdditionalData>
+      <AdditionalData key="MatchQuality-Country">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-State">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-County">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-City">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-Street">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-HouseNumber">1.0</AdditionalData>
+      <AdditionalData key="MatchQuality-PostalCode">1.0</AdditionalData>
+      <AdditionalData key="MapPostalCode">33130</AdditionalData>
+      <AdditionalData key="RegionId">F5</AdditionalData>
+    </Location>
+  </LocationList>
+  <Identity isDeleted="false" lastUpdatedTimeStamp="2018-05-22T20:01:35.507Z">
+    <PlaceId>250ezzwg-828b2f3f0ca74cd99e13da63aad65cf1</PlaceId>
+    <QualityLevel>1</QualityLevel>
+  </Identity>
+  <Content>
+    <Base>
+      <NameList>
+        <Name primaryFlag="true">
+          <TextList>
+            <Text>
+              <BaseText languageCode="fr" type="OFFICIAL">Piscine de Begles</BaseText>
+            </Text>
+          </TextList>
+        </Name>
+      </NameList>
+      <CategoryList>
+        <Category categorySystem="navteq-lcms">
+          <CategoryId>800-8600-0182</CategoryId>
+          <CategoryName>
+            <Text languageCode="en">Swimming Pool</Text>
+          </CategoryName>
+          <Description>
+            <Text languageCode="en">A facility that provides an indoor or outdoor pool used for swimming.</Text>
+          </Description>
+        </Category>
+      </CategoryList>
+      <ContactList>
+        <Contact type="PHONE">
+          <ContactString>0556858639</ContactString>
+          <AdditionalContactInfo>
+            <StandardNumber>+33556858639</StandardNumber>
+            <AreaCode>5</AreaCode>
+            <LocalNumber>56858639</LocalNumber>
+            <CountryCode>33</CountryCode>
+            <AdditionalData key="PhonePrefix">0</AdditionalData>
+          </AdditionalContactInfo>
+        </Contact>
+        <Contact type="WEBADDRESS">
+          <ContactString>http://www.mairie-begles.fr/?p=52</ContactString>
+        </Contact>
+        <Contact type="OTHER">
+          <ContactString>http://www.facebook.com/138774576177939</ContactString>
+          <Label>
+            <Text languageCode="en">yellowstone</Text>
+          </Label>
+        </Contact>
+      </ContactList>
+    </Base>
+    <Rich>
+      <AdditionalAttributeList>
+        <AdditionalAttribute attributeType="QUALITY_SCORING">
+          <Attribute key="isOpen">0.9186</Attribute>
+          <Attribute key="isAddressCorrect">0.3783</Attribute>
+          <Attribute key="modelVersion">2.0.0</Attribute>
+          <Attribute key="overallScore">1</Attribute>
+          <Attribute key="isPlace">0.7779</Attribute>
+          <Attribute key="isNameCorrect">0.8131</Attribute>
+          <Attribute key="isPhoneCorrect">0.8661</Attribute>
+        </AdditionalAttribute>
+      </AdditionalAttributeList>
+    </Rich>
+  </Content>
+</Place>

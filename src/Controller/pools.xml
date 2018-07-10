@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.3 9da5e7ae">
+    <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.
+    </note>
+    <meta osm_base="2018-06-13T08:41:02Z"/>
+
+    <bounds minlat="44.7740000" minlon="-0.7038000" maxlat="44.9001000" maxlon="-0.4559000"/>
+    <node id="21459405" lat="44.8350226" lon="-0.5752577" version="18" timestamp="2012-12-03T11:17:17Z"
+          changeset="14137228"
+          uid="302591" user="Fred_OSM">
+        <tag k="highway" v="traffic_signals"/>
+    </node>
+    <node id="21459406" lat="44.8350887" lon="-0.5749755" version="24" timestamp="2012-11-07T14:50:32Z"
+          changeset="13786239"
+          uid="302591" user="Fred_OSM">
+        <tag k="highway" v="traffic_signals"/>
+    </node>
+    <node id="21459408" lat="44.8349988" lon="-0.5743365" version="10" timestamp="2012-11-07T16:35:10Z"
+          changeset="13787397"
+          uid="302591" user="Fred_OSM">
+        <tag k="bus" v="yes"/>
+        <tag k="public_transport" v="stop_position"/>
+    </node>
+    <node id="21459415" lat="44.8350022" lon="-0.5713114" version="15" timestamp="2012-12-04T13:56:18Z"
+          changeset="14152254"
+          uid="302591" user="Fred_OSM">
+        <tag k="highway" v="traffic_signals"/>
+    </node>
+    <node id="560726062" lat="44.8471172" lon="-0.5399221" version="2" timestamp="2011-09-01T18:06:36Z"
+          changeset="9186861"
+          uid="25762" user="frodrigo">
+        <tag k="leisure" v="swimming_pool"/>
+    </node>
+    <node id="286836896" lat="44.8028501" lon="-0.5367981" version="1" timestamp="2008-08-10T21:09:36Z"
+          changeset="174316"
+          uid="25762" user="frodrigo">
+        <tag k="name" v="Bègle Plage"/>
+        <tag k="sport" v="swimming"/>
+    </node>
+    <node id="1788494010" lat="44.8476849" lon="-0.6541266" version="3" timestamp="2015-12-16T04:29:16Z"
+          changeset="35979974" uid="1279506" user="thibdrev">
+        <tag k="access" v="yes"/>
+        <tag k="alt_name" v="Stade Nautique de Mérignac"/>
+        <tag k="covered" v="yes"/>
+        <tag k="leisure" v="swimming_pool"/>
+        <tag k="name" v="Stade Nautique Jean Badet"/>
+        <tag k="sport" v="swimming"/>
+    </node>
+    <node id="3209312079" lat="44.8803997" lon="-0.6893789" version="1" timestamp="2014-11-28T16:40:16Z"
+          changeset="27093829" uid="1238664" user="zerpou">
+        <tag k="leisure" v="swimming_pool"/>
+        <tag k="source"
+             v="data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014"/>
+        <tag k="sport" v="swimming"/>
+    </node>
+    <node id="3500724684" lat="44.8491816" lon="-0.5000246" version="2" timestamp="2015-05-06T10:24:55Z"
+          changeset="30836826" uid="2891563" user="fvergnon">
+        <tag k="amenity" v="swimming_pool"/>
+        <tag k="name" v="Piscine Municipale de Cenon &quot;La Blancherie&quot;"/>
+        <tag k="sport" v="swimming"/>
+    </node>
+    <node id="4191237398" lat="44.8641642" lon="-0.5156324" version="1" timestamp="2016-05-17T07:40:06Z"
+          changeset="39369874" uid="3722360" user="CapValentin">
+        <tag k="leisure" v="sports_centre"/>
+        <tag k="sport" v="swimming"/>
+    </node>
+    <node id="4323257582" lat="44.8080695" lon="-0.4728850" version="1" timestamp="2016-07-27T13:22:40Z"
+          changeset="41062836" uid="572214" user="natureln">
+        <tag k="access" v="private"/>
+        <tag k="leisure" v="swimming_pool"/>
+    </node>
+    <node id="4323257583" lat="44.8095834" lon="-0.4657596" version="1" timestamp="2016-07-27T13:22:41Z"
+          changeset="41062836" uid="572214" user="natureln">
+        <tag k="access" v="private"/>
+        <tag k="leisure" v="swimming_pool"/>
+    </node>
+    <node id="4323257584" lat="44.8096598" lon="-0.4704345" version="1" timestamp="2016-07-27T13:22:41Z"
+          changeset="41062836" uid="572214" user="natureln">
+        <tag k="access" v="private"/>
+        <tag k="leisure" v="swimming_pool"/>
+    </node>
+    <node id="4547196502" lat="44.8343117" lon="-0.5712915" version="1" timestamp="2016-12-09T21:50:58Z"
+          changeset="44293111" uid="3143307" user="pi3rr3">
+        <tag k="leisure" v="sports_centre"/>
+        <tag k="sport" v="swimming"/>
+    </node>
+    <node id="5490891046" lat="44.8935731" lon="-0.6666278" version="5" timestamp="2018-03-20T21:32:42Z"
+          changeset="57366550" uid="2526990" user="Seb33">
+        <tag k="addr:city" v="EYSINES"/>
+        <tag k="addr:housenumber" v="309"/>
+        <tag k="addr:postcode" v="33320"/>
+        <tag k="addr:street" v="Avenue du Médoc"/>
+        <tag k="building" v="yes"/>
+        <tag k="leisure" v="fitness_centre"/>
+        <tag k="name" v="SWIN in the city"/>
+        <tag k="sport" v="swimming"/>
+        <tag k="website" v="https://swiminthecity.com/"/>
+    </node>
+    <way id="24878677" version="4" timestamp="2013-09-13T08:27:12Z" changeset="17813209" uid="860575"
+         user="MarcelHerault">
+        <nd ref="270339952"/>
+        <nd ref="2402704852"/>
+        <nd ref="2402704849"/>
+        <nd ref="2402704851"/>
+        <nd ref="2402704850"/>
+        <nd ref="245004823"/>
+        <nd ref="248206133"/>
+        <nd ref="2402704853"/>
+        <nd ref="2402704854"/>
+        <nd ref="2402704855"/>
+        <nd ref="2402704857"/>
+        <nd ref="2402704859"/>
+        <nd ref="2402704860"/>
+        <nd ref="2402704861"/>
+        <nd ref="2402704862"/>
+        <nd ref="2402704863"/>
+        <nd ref="1684507700"/>
+        <nd ref="245004805"/>
+        <nd ref="270339953"/>
+        <nd ref="270339952"/>
+        <tag k="access" v="yes"/>
+        <tag k="amenity" v="swimming_pool"/>
+        <tag k="name" v="Piscine Stéhélin"/>
+        <tag k="sport" v="swimming"/>
+    </way>
+    <way id="25911511" version="9" timestamp="2016-03-24T16:43:22Z" changeset="38045083" uid="2538376"
+         user="vherbreteau">
+        <nd ref="282662630"/>
+        <nd ref="2456696032"/>
+        <nd ref="2456696040"/>
+        <nd ref="2456696042"/>
+        <nd ref="2456696044"/>
+        <nd ref="2456696046"/>
+        <nd ref="2456696048"/>
+        <nd ref="282662631"/>
+        <nd ref="282662632"/>
+        <nd ref="282662633"/>
+        <nd ref="2456696021"/>
+        <nd ref="2456696020"/>
+        <nd ref="2456696019"/>
+        <nd ref="282662630"/>
+        <tag k="barrier" v="fence"/>
+        <tag k="leisure" v="sports_centre"/>
+        <tag k="name" v="Piscine de Thouars"/>
+        <tag k="private" v="yes"/>
+        <tag k="source" v="Survey"/>
+        <tag k="sport" v="swimming"/>
+    </way>
+    <way id="27589248" version="7" timestamp="2014-11-14T17:30:11Z" changeset="26781776" uid="25762" user="frodrigo">
+        <nd ref="302947014"/>
+        <nd ref="302947016"/>
+        <nd ref="302947019"/>
+        <nd ref="938152186"/>
+        <nd ref="302947021"/>
+        <nd ref="282512544"/>
+        <nd ref="302947024"/>
+        <nd ref="302947014"/>
+        <tag k="leisure" v="water_park"/>
+        <tag k="name" v="Piscine Tissot"/>
+        <tag k="sport" v="swimming"/>
+    </way>
+    <way id="34142396" version="3" timestamp="2014-09-21T14:32:58Z" changeset="25580684" uid="179581" user="Geofreund1">
+        <nd ref="391503282"/>
+        <nd ref="391503283"/>
+        <nd ref="2279993873"/>
+        <nd ref="391503284"/>
+        <nd ref="2279993675"/>
+        <nd ref="391503285"/>
+        <nd ref="391503286"/>
+        <nd ref="2279993702"/>
+        <nd ref="2279993692"/>
+        <nd ref="2279993879"/>
+        <nd ref="2279993896"/>
+        <nd ref="391503287"/>
+        <nd ref="391503282"/>
+        <tag k="leisure" v="swimming_pool"/>
+        <tag k="name" v="Piscine des Canetons"/>
+        <tag k="sport" v="swimming"/>
+    </way>
+    <way id="77956030" version="3" timestamp="2011-09-04T02:36:36Z" changeset="9204502" uid="201149" user="PierenBot">
+        <nd ref="916202619"/>
+        <nd ref="916205189"/>
+        <nd ref="916207022"/>
+        <nd ref="916194864"/>
+        <nd ref="916188106"/>
+        <nd ref="916201096"/>
+        <nd ref="916201324"/>
+        <nd ref="916194754"/>
+        <nd ref="916182848"/>
+        <nd ref="916199536"/>
+        <nd ref="916206523"/>
+        <nd ref="916202619"/>
+        <tag k="building" v="yes"/>
+        <tag k="name" v="Piscine Galin"/>
+        <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+        <tag k="sport" v="swimming"/>
+    </way>
+    <way id="109947364" version="3" timestamp="2012-04-10T12:58:32Z" changeset="11251989" uid="300459"
+         user="didier2020">
+        <nd ref="1257303685"/>
+        <nd ref="1257303646"/>
+        <nd ref="1257303805"/>
+        <nd ref="1257303713"/>
+        <nd ref="1257303685"/>
+        <tag k="access" v="private"/>
+        <tag k="leisure" v="swimming_pool"/>
+        <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"/>
+    </way>
+    <way id="257893771" version="1" timestamp="2014-01-23T08:24:02Z" changeset="20155655" uid="302591" user="Fred_OSM">
+        <nd ref="2633420907"/>
+        <nd ref="2633420909"/>
+        <nd ref="2633420910"/>
+        <nd ref="2633420911"/>
+        <nd ref="2633420907"/>
+        <tag k="leisure" v="swimming_pool"/>
+    </way>
+    <way id="290153871" version="1" timestamp="2014-06-28T11:29:57Z" changeset="23243507" uid="23981" user="NaSH">
+        <nd ref="2936878156"/>
+        <nd ref="2936878155"/>
+        <nd ref="2936878147"/>
+        <nd ref="2936878148"/>
+        <nd ref="2936878156"/>
+        <tag k="access" v="private"/>
+        <tag k="leisure" v="swimming_pool"/>
+    </way>
+    <relation id="2133907" version="5" timestamp="2018-01-10T17:02:53Z" changeset="55327985" uid="662440" user="JFK73">
+        <member type="way" ref="159411617" role="outer"/>
+        <member type="way" ref="159415353" role="inner"/>
+        <tag k="addr:city" v="Bègles"/>
+        <tag k="addr:housenumber" v="2-14"/>
+        <tag k="addr:postcode" v="33130"/>
+        <tag k="addr:street" v="Rue Carnot"/>
+        <tag k="covered" v="yes"/>
+        <tag k="description" v="Les Bains - Piscine - Hammam"/>
+        <tag k="heritage" v="3"/>
+        <tag k="heritage:operator" v="mhs"/>
+        <tag k="leisure" v="swimming_pool"/>
+        <tag k="length" v="25m"/>
+        <tag k="mhs:inscription_date" v="1991-12-18"/>
+        <tag k="name" v="Piscine municipale de Bègles"/>
+        <tag k="opening_hours"
+             v="Mo,We 12:00-14:30,18:00-20:00; Tu,Th 12:00-14:30,17:00-20:00; Fr 12:00-14:30,18:00-22:00; Sa 10:30-17:00; Su 09:00-13:00; SH Mo 12:00-20:00; SH Tu-Th 10:00-20:00; SH Fr 10:00-22:00; Jul-Aug off"/>
+        <tag k="ref:mhs" v="PA00083900"/>
+        <tag k="source:heritage" v="data.gouv.fr:Ministère de la Culture - 04/2015"/>
+        <tag k="sport" v="swimming"/>
+        <tag k="type" v="multipolygon"/>
+        <tag k="wheelchair" v="yes"/>
+        <tag k="wikidata" v="Q22920415"/>
+        <tag k="wikipedia" v="fr:Piscine municipale de Bègles"/>
+    </relation>
+    <relation id="8377222" version="1" timestamp="2018-06-12T21:02:03Z" changeset="59791314" uid="3243024"
+              user="aetherman">
+        <member type="node" ref="5686125626" role=""/>
+        <member type="node" ref="5686125625" role=""/>
+        <member type="node" ref="5686125624" role=""/>
+        <tag k="name" v="Campus Carreire"/>
+        <tag k="network" v="TBM"/>
+        <tag k="public_transport" v="stop_area"/>
+        <tag k="public_transport:version" v="2"/>
+        <tag k="type" v="public_transport"/>
+    </relation>
+
+</osm>

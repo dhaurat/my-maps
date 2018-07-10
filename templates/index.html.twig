@@ -1,0 +1,29 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}MAPS{% endblock %}
+
+{% block body %}
+    <h2>The coolest maps application</h2>
+    <h3>Open Street Maps <small>({{ osm_elements|length }} elements)</small></h3>
+    <ul>
+    {% for poi in osm_elements %}
+        <li>OSM POI : </li>
+        <ul>
+        {%  for key,value in poi %}
+            <li>{{ key }} => {{ value }}</li>
+        {% endfor %}
+        </ul>
+    {%  endfor %}
+    </ul>
+    <h3>Here Places <small>({{ here_elements|length }} elements)</small></h3>
+    <ul>
+    {% for poi in here_elements %}
+        <li>HERE POI : </li>
+        <ul>
+            {%  for key,value in poi %}
+                <li>{{ key }} => {{ value }}</li>
+            {% endfor %}
+        </ul>
+    {%  endfor %}
+    </ul>
+{% endblock %}
